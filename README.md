@@ -1,3 +1,6 @@
 # scoop-myks-public
 
-Scoop bucket useful for me.
+[Scoop](https://scoop.sh/) [bucket](https://github.com/lukesampson/scoop/wiki/Buckets) useful for me.
+
+---
+[MD の参考](https://guides.github.com/features/mastering-markdown/)
