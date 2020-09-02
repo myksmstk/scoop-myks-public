@@ -1,0 +1,20 @@
+﻿{
+    "homepage": "https://www.vector.co.jp/soft/cmt/win95/art/se233905.html",
+    "description": "Lame Ivy Frontend Encoder",
+    "license": "Freeware",
+    "version": "2.97",
+    "url": "https://ftp.vector.co.jp/41/08/2552/life297.lzh",
+    "hash": "b2f68f2e55bdd7503c1832a46fe78085d5d2563dfcc353b0d200faa4eea51865",
+    "bin": "life.exe",
+    "suggest": {
+        "lame": [
+            "main/lame"
+        ]
+    },
+    "shortcuts": [
+        [
+            "life.exe",
+            "LIFE mp3"
+        ]
+    ]
+}
