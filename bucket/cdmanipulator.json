@@ -14,5 +14,14 @@
             "CdManipulator.exe",
             "CD Manipulator"
         ]
+    ],
+    "persist": [
+        "CdManipulator.ini"
+    ],
+    "pre_install": [
+        "$src = \"$dir\\CdManipulator.ini\"",
+        "if (!(Test-Path \"$src\")) {",
+        "  New-Item -ItemType file \"$src\" | Out-Null",
+        "}"
     ]
 }
