@@ -6,11 +6,19 @@
 
 * [CD Manipulator](http://www.storeroom.info/cdm/) / [cdmanipulator](bucket/cdmanipulator.json)
 
-* [Hash My Files](https://www.nirsoft.net/utils/hash_my_files.html) / [hashmyfiles](bucket/hashmyfiles.json)
+* [Hash My Files](https://www.nirsoft.net/utils/hash_my_files.html) / [hashmyfiles](bucket/hashmyfiles.json)  
+	本家の bucket にあるマニフェストが設定値の persist 化に対応できていなかったので修正版を作成。
 
-* [Lame Ivy Frontend Encoder](https://www.vector.co.jp/soft/win95/art/se233905.html) / [life](bucket/life.json)
+* [Lame Ivy Frontend Encoder](https://www.vector.co.jp/soft/win95/art/se233905.html) / [life](bucket/life.json)  
+	**※注）vector などのダウンロード元は若干古いバージョン（2.97）であるため、より新しい 2.98alpha4 をインストールする。**  
+	ついでに 2.97 のヘルプファイルを同梱した。
 
-* [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)
+* [PuTTY-ranvis](https://www.ranvis.com/putty) / [putty-ranvis](bucket/putty-ranvis.json)  
+	ini ファイルパッチが適用されている putty。  
+	**※注）本家ダウンロード元は User-Agent を確認するらしく scoop ではダウンロードできないため、Google Drive に保存したファイルからインストールする。**
+
+* [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)  
+	設定値の persist 化に対応した。設定値は persistentprofile という名前のプロファイルを使って保存する。
 
 ---
 ## その他メモ
