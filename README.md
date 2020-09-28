@@ -9,9 +9,13 @@
 * [Hash My Files](https://www.nirsoft.net/utils/hash_my_files.html) / [hashmyfiles](bucket/hashmyfiles.json)  
 	本家の bucket にあるマニフェストが設定値の persist 化に対応できていなかったので修正版を作成。
 
+* [キングオブキングスＧ](https://kyolucam.wixsite.com/tamokuteki) / [kingofkingsg](bucket/kingofkingsg.json)  
+	**※）本家配布元は DropBox で scoop ではダウンロードできない。**  
+	（Google Drive に保存してあるファイルからインストールする）
+
 * [Lame Ivy Frontend Encoder](https://www.vector.co.jp/soft/win95/art/se233905.html) / [life](bucket/life.json)  
-	**※注）vector などの配布元は若干古いバージョン（2.97）のため、より新しい 2.98alpha4 をインストールする。**  
-	**（Google Drive に保存したファイルからインストールする）**  
+	**※）vector などの配布元は若干古い（2.97）ため、より新しい 2.98alpha4 をインストールする。**  
+	（Google Drive に保存してあるファイルからインストールする）  
 	ついでに 2.97 のヘルプファイルを同梱した。
 
 * [まうじゃん](http://www.amy.hi-ho.ne.jp/ishihata/maujong/) / [maujong](bucket/maujong.json)  
@@ -19,8 +23,8 @@
 
 * [PuTTY-ranvis](https://www.ranvis.com/putty) / [putty-ranvis](bucket/putty-ranvis.json)  
 	ini ファイルパッチが適用されている putty。  
-	**※注）本家ダウンロード元は User-Agent を確認するらしく scoop ではダウンロードできない。**  
-	**（Google Drive に保存したファイルからインストールする）**
+	**※）本家配布元は User-Agent を確認するらしく scoop ではダウンロードできない。**  
+	（Google Drive に保存してあるファイルからインストールする）
 
 * [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)  
 	設定値の persist 化に対応した。設定値は persistentprofile という名前のプロファイルを使って保存する。
@@ -49,6 +53,16 @@
     ]
 
 ```
+
+### Google Drive の直リンク URL の掟
+
+* ファイルの共有リンクを生成して id を抜き出す  
+	例）https://drive.google.com/file/d/1234567890ABCDEFGHIJKLMNOPQRSTUVW/view?usp=sharing  
+	→ id = 1234567890ABCDEFGHIJKLMNOPQRSTUVW
+* 直リンク URL と id を組み合わせる  
+	例）https://drive.google.com/uc?export=download&id=1234567890ABCDEFGHIJKLMNOPQRSTUVW  
+
+ただし、ある程度大きなファイルはウィルスチェックができない旨の警告表示が挟まり直リンクにならない。
 
 ---
 * [MD の参考](https://guides.github.com/features/mastering-markdown/)
