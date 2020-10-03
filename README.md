@@ -10,21 +10,21 @@
 	本家の bucket にあるマニフェストが設定値の persist 化に対応できていなかったので修正版を作成。
 
 * [キングオブキングスＧ](https://kyolucam.wixsite.com/tamokuteki) / [kingofkingsg](bucket/kingofkingsg.json)  
-	**※）本家配布元は DropBox で scoop ではダウンロードできない。**  
-	（Google Drive に保存してあるファイルからインストールする）
+	※本家配布元は DropBox で scoop ではダウンロードできない。  
+	**（Google Drive に保存してあるファイルからインストールする）**
 
 * [Lame Ivy Frontend Encoder](https://www.vector.co.jp/soft/win95/art/se233905.html) / [life](bucket/life.json)  
-	**※）vector などの配布元は若干古い（2.97）ため、より新しい 2.98alpha4 をインストールする。**  
-	（Google Drive に保存してあるファイルからインストールする）  
+	※vector などの配布元は若干古い（2.97）ため、より新しい 2.98alpha4 をインストールする。  
+	**（Google Drive に保存してあるファイルからインストールする）**
 	ついでに 2.97 のヘルプファイルを同梱した。
 
 * [まうじゃん](http://www.amy.hi-ho.ne.jp/ishihata/maujong/) / [maujong](bucket/maujong.json)  
-	簡易麻雀ゲーム「まうじゃん」。
+	懐ゲー（死語）、簡易麻雀ゲーム「まうじゃん」。
 
-* [PuTTY-ranvis](https://www.ranvis.com/putty) / [putty-ranvis](bucket/putty-ranvis.json)  
+* [PuTTYrv (PuTTY-ranvis)](https://www.ranvis.com/putty) / [putty-ranvis](bucket/putty-ranvis.json)  
 	ini ファイルパッチが適用されている putty。  
-	**※）本家配布元は User-Agent を確認するらしく scoop ではダウンロードできない。**  
-	（Google Drive に保存してあるファイルからインストールする）
+	※本家配布元は User-Agent を確認するらしく scoop ではダウンロードできない。  
+	**（Google Drive に保存してあるファイルからインストールする）**
 
 * [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)  
 	設定値の persist 化に対応した。設定値は persistentprofile という名前のプロファイルを使って保存する。
