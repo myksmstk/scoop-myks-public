@@ -36,6 +36,9 @@
 * [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)  
 	設定値の persist 化に対応した。設定値は persistentprofile という名前のプロファイルを使って保存する。
 
+* [Wake up On Lan Tool](https://www.vector.co.jp/soft/dl/win95/util/se241927.html) / [wol](bucket/wol.json)  
+	Wake up On Lan マジックパケット送信ツール。
+
 ---
 ## その他メモ
 
