@@ -39,6 +39,9 @@
 * [Wake up On Lan Tool](https://www.vector.co.jp/soft/dl/win95/util/se241927.html) / [wol](bucket/wol.json)  
 	Wake up On Lan マジックパケット送信ツール。
 
+* [pdf_as](http://uchijyu.s601.xrea.com/wordpress/pdf_as/) / [pdf_as](bucket/pdf_as.json)  
+	PDFファイルの**セキュリティ設定**、結合、追加、分割、抽出、削除、回転、プロパティ設定、ヘッダー・フッター設定、しおり追加ができるツール。
+
 ---
 ## その他メモ
 
