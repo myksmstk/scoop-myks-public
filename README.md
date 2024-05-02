@@ -25,13 +25,17 @@
 * [まうじゃん](http://www.amy.hi-ho.ne.jp/ishihata/maujong/) / [maujong](bucket/maujong.json)  
 	懐ゲー（死語）、簡易麻雀ゲーム「まうじゃん」。
 
-* [D2D/DW Putty](https://ice.hotmint.com/putty/d2ddw.html) / [putty-d2ddw](bucket/putty-d2ddw.json)  
-	テキストレンダリングエンジンを Direct2D/DirectWrite へ変更し、より高品質なテキストレンダリングが可能な putty。  
+* [Mery](https://www.haijin-boys.com/software/mery) / [mery](bucket/mery.json)
+	シンプルなテキストエディター「Mery」ベータ版。
+
+* [OmniSSHAgent](https://github.com/masahide/OmniSSHAgent) / [omnisshagent](bucket/omnisshagent.json)  
+	Windows 用 代替 SSH Agent。
+
+* [D2D/DW Putty](https://ice.hotmint.com/putty/d2ddw.html) / [putty-d2ddw](bucket/putty-d2ddw.json)
+	テキストレンダリングエンジンを Direct2D/DirectWrite へ変更し、より高品質なテキストレンダリングが可能な putty。
 
 * [PuTTYrv (PuTTY-ranvis)](https://www.ranvis.com/putty) / [putty-ranvis](bucket/putty-ranvis.json)  
-	ini ファイルパッチが適用されている putty。  
-	※本家配布元は User-Agent を確認するらしく scoop ではダウンロードできない。  
-	**（Google Drive に保存してあるファイルからインストールする）**
+	ini ファイルパッチが適用されている putty のカスタムビルド。  
 
 * [サクラエディタ](https://sakura-editor.github.io/) / [sakura-editor](bucket/sakura-editor.json)  
 	設定値の persist 化に対応した。設定値は persistentprofile という名前のプロファイルを使って保存する。
