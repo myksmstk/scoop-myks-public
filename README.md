@@ -11,17 +11,6 @@
 	ファイルの各種ハッシュ値を計算するツール。  
 	[scoop-nirsoft の bucket](https://github.com/MCOfficer/scoop-nirsoft) にあるマニフェストが設定値の persist 化に対応できていなかったので修正版を作成。
 
-* [キングオブキングスＧ](https://kyolucam.wixsite.com/tamokuteki) / [kingofkingsg](bucket/kingofkingsg.json)  
-	FC キングオブキングスのリメイク版。  
-	※本家配布元は DropBox で scoop ではダウンロードできない。  
-	**（Google Drive に保存してあるファイルからインストールする）**
-
-* [Lame Ivy Frontend Encoder](https://www.vector.co.jp/soft/win95/art/se233905.html) / [life](bucket/life.json)  
-	LAME の GUI ツール。  
-	※vector などの配布元は若干古い（2.97）ため、より新しい 2.98alpha4 をインストールする。  
-	**（Google Drive に保存してあるファイルからインストールする）**  
-	ついでに 2.97 のヘルプファイルを同梱した。
-
 * [まうじゃん](http://www.amy.hi-ho.ne.jp/ishihata/maujong/) / [maujong](bucket/maujong.json)  
 	懐ゲー（死語）、簡易麻雀ゲーム「まうじゃん」。
 
