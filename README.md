@@ -35,6 +35,9 @@
 * [pdf_as](http://uchijyu.s601.xrea.com/wordpress/pdf_as/) / [pdf_as](bucket/pdf_as.json)  
 	PDFファイルの**セキュリティ設定**、結合、追加、分割、抽出、削除、回転、プロパティ設定、ヘッダー・フッター設定、しおり追加ができるツール。
 
+* [Change Key](https://satoshi3.sakura.ne.jp/f_soft/dw_win.htm) / [changekey](bucket/changekey.json)
+	非常駐型のキー配置変更ツール。
+
 ---
 ## その他メモ
 
